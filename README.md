@@ -1,21 +1,21 @@
 # The dataset is crawled from the official Amazon website for non-commercial purposes and includes the following columns:
 
-product_id: Unique identifier for the product
-product_name: Name of the product
-category: Product category
-discounted_price: Price after discount
-actual_price: Original price
-discount_percentage: Percentage of discount offered
-rating: Product rating
-rating_count: Number of ratings received
-about_product: Product description
-user_id: ID of the reviewer
-user_name: Name of the reviewer
-review_id: Unique identifier for the review
-review_title: Brief review title
-review_content: Detailed review content
-img_link: Link to product image
-product_link: Link to the official product page 
+- product_id: Unique identifier for the product
+- product_name: Name of the product
+- category: Product category
+- discounted_price: Price after discount
+- actual_price: Original price
+- discount_percentage: Percentage of discount offered
+- rating: Product rating
+- rating_count: Number of ratings received
+- about_product: Product description
+- user_id: ID of the reviewer
+- user_name: Name of the reviewer
+- review_id: Unique identifier for the review
+- review_title: Brief review title
+- review_content: Detailed review content
+- img_link: Link to product image
+- product_link: Link to the official product page 
 
 # In the Exploratory Data Analysis (EDA) of the given dataset, several key tasks will be performed:
 1. **Data Cleaning**:
