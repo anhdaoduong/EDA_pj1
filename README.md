@@ -1,4 +1,4 @@
-# This dataset was collected from the official Amazon website for non-commercial purposes and includes the following columns:
+# This dataset was collected from the official Amazon.in website for non-commercial purposes and includes the following columns:
 
 - product_id: Unique identifier for the product
 - product_name: Name of the product
