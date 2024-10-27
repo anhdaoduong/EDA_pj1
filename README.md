@@ -1,4 +1,4 @@
-# The dataset is crawled from the official Amazon website for non-commercial purposes and includes the following columns:
+# This dataset was collected from the official Amazon website for non-commercial purposes and includes the following columns:
 
 - product_id: Unique identifier for the product
 - product_name: Name of the product
@@ -17,7 +17,7 @@
 - img_link: Link to product image
 - product_link: Link to the official product page 
 
-# In the Exploratory Data Analysis (EDA) of the given dataset, several key tasks will be performed:
+# In the Exploratory Data Analysis (EDA) of the provided dataset, we will undertake several key tasks:
 1. **Data Cleaning**:
    - Identify and handle missing values.
    - Remove duplicates or irrelevant entries.
@@ -38,4 +38,3 @@
    - Compare performance metrics (like average rating, average discount) across different product categories.
 8. **Outlier Detection**:
    - Identify any outliers in pricing or ratings and investigate their causes.
-Overall, EDA will provide a comprehensive understanding of the dataset, highlighting trends, relationships, and areas for further analysis.
